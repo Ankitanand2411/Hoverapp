@@ -2,8 +2,8 @@ HoverIT – Smart Mobility Meets Smart Apps
 
 Welcome to HoverIT, a fully simulated web-based platform that showcases how smart mobility apps can enable performance monitoring, route planning, eco insights, and safety—all without physical hardware. Built for the **Hackemon Hackathon** (Galgotias University) under the theme: “Smart Mobility Meets Smart Apps”.
 
-Live Site: [hover-it.vercel.app](https://hover-it.vercel.app)  
-GitHub Repo: [Ankitanand2411/HoverIT](https://github.com/Ankitanand2411/HoverIT)
+Live Site: [hover-it.vercel.app](https://hoveritweb.vercel.app/)  
+GitHub Repo: [Ankitanand2411/HoverIT](https://github.com/Ankitanand2411/Hoverapp)
 
 ---
 
